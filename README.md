@@ -1,5 +1,6 @@
 ## Hi there, my name is Sashv and it's nice to meet you! 👋
 
+I find interest in using technology and entrepreneurial spirit to guide myself and others on a path to independence. In addition to debate I like to participate in recreational actiites such as sports, played travel teeam baseball, AAu basketball, CBA gold rank badminton, and I also like to participate in Speech & Debate particularly the Parliamentary division. 
 
 ## I am a sophomore in high school and innovator at heart 💡
 
