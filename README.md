@@ -1,4 +1,4 @@
-# Hi there, my name is Sashv and it's nice to meet you! 👋
+## Hi there, my name is Sashv and it's nice to meet you! 👋
 
 
 ## I am a sophomore in high school and innovator at heart 💡
