@@ -1,4 +1,5 @@
-### Hi there, I am Sashv Dave, nice to meet you!
+### Hi there 👋
+
 
 ## I am a sophomore in high school and innovator at heart 💡
 
