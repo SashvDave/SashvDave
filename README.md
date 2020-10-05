@@ -1,4 +1,4 @@
-### Hi there 👋
+##### Hi there 👋
 
 
 ## I am a sophomore in high school and innovator at heart 💡
