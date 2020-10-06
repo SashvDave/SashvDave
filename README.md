@@ -1,4 +1,4 @@
-## Hi there, my name is Sashv and it's nice to meet you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src="https://github.com/SashvDave/SashvDave/blob/main/header.png?raw=true">
 
