@@ -1,4 +1,5 @@
-## Hi there, my name is Sashv and it's nice to meet you! 
+## Hi there, my name is Sashv and it's nice to meet you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 > [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 I find interest in using technology and entrepreneurial spirit to guide myself and others on a path to independence. In addition to debate I like to participate in recreational actiites such as sports, played travel teeam baseball, AAu basketball, CBA gold rank badminton, and I also like to participate in Speech & Debate particularly the Parliamentary division. 
