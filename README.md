@@ -16,7 +16,7 @@ I find interest in using technology and entrepreneurial spirit to guide myself a
 ## I am a sophomore in high school and innovator at heart 💡
 
 - 🔭 I’m currently working on react native and flutter cross platform mobile applications
-- 🌱 I’m currently learning how to integrate complex APIs into these applications
+- 🌱 I’m currently wanting to learn how to integrate complex APIs into these applications
 - 👯 I’m looking to collaborate on any kinds of projects whether they be long term or for a hackathon, I never pass up a good opportunity 😊
 - 🤔 I’m looking for help with responsive web development
 - 📫 How to reach me: davesashv@gmail.com
