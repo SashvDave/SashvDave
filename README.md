@@ -31,9 +31,7 @@ I find interest in using technology and entrepreneurial spirit to guide myself a
 <br />
 
 
-### ⚡ GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SashvDave&show_icons=true&theme=radical&count_private=true" />
 
 
 [instagram]: https://www.instagram.com/sashvdave/
