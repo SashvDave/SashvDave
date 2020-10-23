@@ -14,7 +14,9 @@
 > ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 > ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+
 I find interest in using technology and entrepreneurial spirit to guide myself and others on a path to independence. In addition to debate I like to participate in recreational actiites such as sports, played travel team baseball, basketball, CBA gold rank badminton, and I also like to participate in Speech & Debate particularly the Parliamentary division. 
+
 
 ## I am a sophomore in high school and innovator at heart 💡
 
