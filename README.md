@@ -48,5 +48,7 @@ I find interest in using technology and entrepreneurial spirit to guide myself a
 
 
 
+
+
 [instagram]: https://www.instagram.com/sashvdave/
 [linkedin]: https://www.linkedin.com/in/sashv-dave-b35b0b19a
