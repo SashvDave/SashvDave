@@ -39,9 +39,6 @@ I find interest in using technology and entrepreneurial spirit to guide myself a
 <br />
 
 ### ⚡ GitHub Stats
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SashvDave&show_icons=true&count_private=true" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SashvDave&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
