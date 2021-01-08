@@ -23,7 +23,7 @@
 I find interest in using technology and entrepreneurial spirit to guide myself and others on a path to independence. In addition to debate I like to participate in recreational actiites such as sports, played travel team baseball, basketball, CBA gold rank badminton, and I also like to participate in Speech & Debate particularly the Parliamentary division. 
 
 
-## I am a sophomore in high school and innovator at heart 💡
+## I am a 15 year old developer from California!
 
 - 🔭 I’m currently working on react native and flutter cross platform mobile applications
 - 🌱 I’m currently wanting to learn how to integrate complex APIs into these applications
