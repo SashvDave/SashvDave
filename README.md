@@ -41,7 +41,8 @@ I find interest in using technology and entrepreneurial spirit to guide myself a
 ### ⚡ GitHub Stats
 
 <p align="center">
- 
+  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sashvdave&title=Commit,Followers,Stars,Issues,Repositories&hide_border=true&theme=dracula&margin-w=15&margin-h=15&column=7" alt="sashvdave" /></a> </p>
+<a href="https://github.com/SashvDave">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SashvDave&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SashvDave&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </a>
