@@ -35,12 +35,14 @@ I find interest in using technology and entrepreneurial spirit to guide myself a
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sashv D's DEV Community Profile" width="22px">
 
 <br />
 
 ### ⚡ GitHub Stats
 
 <p align="left">
+        
 <a href="https://github.com/SashvDave">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SashvDave&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SashvDave&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
