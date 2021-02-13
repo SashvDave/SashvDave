@@ -28,14 +28,6 @@
 - 🤔 I’m looking for help with responsive web development
 - 📫 How to reach me: davesashv@gmail.com
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sashv D's DEV Community Profile" width="22px">
-
-<br />
-
 ### ⚡ GitHub Stats
 
 <p align="left">
