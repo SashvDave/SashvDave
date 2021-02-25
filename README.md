@@ -33,7 +33,7 @@
 <p align="left">
         
 <a href="https://github.com/SashvDave">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SashvDave&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SashvDave&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SashvDave&hide_border=true&layout=compact&langs_count=8&theme=dracula"/></a> </p>
 </a>
 </p>
