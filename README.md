@@ -37,6 +37,7 @@
   <img height="180em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SashvDave&hide_border=true&layout=compact&langs_count=8&theme=dracula"/></a> 
 </a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashvdave&theme=dracula&no-frame=true&column=6&margin-w=30&margin-h=30&title=MultiLanguage,Commit,Followers,Stars,Issues,Repositories" alt="sashvdave" /></a> </p>
 
 
 
