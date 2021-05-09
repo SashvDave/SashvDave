@@ -31,9 +31,6 @@
 
 ### ⚡ GitHub Stats
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sashvdave&label=PROFILE+VIEWS" alt="xdvrx1" /> 
-</p>
 <p align="left">
         
 <a href="https://github.com/SashvDave">
