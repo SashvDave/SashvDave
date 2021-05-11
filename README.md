@@ -31,13 +31,7 @@
 
 ### ⚡ GitHub Stats
 
-<p align="left">
-        
-<a href="https://github.com/SashvDave">
-  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SashvDave&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
-  <img height="180em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SashvDave&hide_border=true&layout=compact&langs_count=8&theme=dracula"/></a> 
-</a>
-</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashvdave&theme=dracula&no-frame=true&column=6&margin-w=30&margin-h=30&title=AllSuperRank, MultiLanguage,Commit,Followers,Stars,Issues,Repositories" alt="sashvdave" /></a> </p>
 
 
