@@ -23,11 +23,9 @@
 
 ## I am a 15 year old developer from California!
 
-- 🔭 I’m currently working on react native and flutter cross platform mobile applications
-- 🌱 I’m currently wanting to learn how to integrate complex APIs into these applications
-- 👯 I’m looking to collaborate on any kind of project; long term or for a hackathon, I never pass up a good opportunity 😊
-- 🤔 I’m looking for help with responsive web development
-- 📫 How to reach me: davesashv@gmail.com
+- I’m currently working on making cross-platform apps and dynamic websites
+- I’m down to collaborate on any kind of project; long term or for a hackathon, I never pass up a good opportunity 😊
+- Feel free to email me at davesashv@gmail.com or set up a quick chat at https://calendly.com/sashvd/30min
 
 ### ⚡ GitHub Stats
 
