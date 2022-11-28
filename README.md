@@ -21,7 +21,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=007ACC)
 
 
-## I am a 16 year old developer from California!
+## I am a 17 year old developer from California!
 
 - I’m currently working on making cross-platform apps and dynamic websites
 - I’m down to collaborate on any kind of project; long term or for a hackathon, I never pass up a good opportunity 😊
