@@ -20,13 +20,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=007ACC)
 
-
-## I am a 17 year old developer from California!
-
-- I’m currently working on making cross-platform apps and dynamic websites
-- I’m down to collaborate on any kind of project; long term or for a hackathon, I never pass up a good opportunity 😊
-- Feel free to email me at davesashv@gmail.com or set up a quick chat at https://calendly.com/sashvd/30min
-
 ### ⚡ GitHub Stats
 
 <p align="left">
